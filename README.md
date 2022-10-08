@@ -1,5 +1,5 @@
 # GRASP_for_Network_Design
-Computational results collected from an experiment of a GRASP algorithm for a the covering network design problem of https://www.sciencedirect.com/science/article/pii/S0305054821001805
+Computational results collected from an experiment of a GRASP algorithm for a the covering network design problem of https://link.springer.com/article/10.1007/s10732-011-9185-z
 For this experiment we have used instances with 20, 40 and 60 nodes generated in a random manner. There are 20 underlying networks of each size.
 The percentage of available budget is fixed to 0.4.
 
