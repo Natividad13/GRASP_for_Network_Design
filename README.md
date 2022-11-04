@@ -4,4 +4,5 @@ For this experiment we have used instances with 20, 40 and 60 nodes generated in
 The percentage of available budget is fixed to 0.4.
 
 We show the average values of the differents variables taken into account (value of the demand convered, the overall execution time, the relative percent deviation with respect to the best solution found by a Benders decomposition routine)
-[computational_results_grasp.xlsx](https://github.com/Natividad13/GRASP_for_Network_Design/files/9739790/computational_results_grasp.xlsx)
+
+[computational_results_grasp.xlsx](https://github.com/Natividad13/GRASP_for_Network_Design/files/9942522/computational_results_grasp.xlsx)
